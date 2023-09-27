@@ -1,0 +1,11 @@
+Hardware Interface: usbTin
+Log Software: CanHacker
+
+Vehicle: Gen 5 Camaro LS3 TR6060 Manual
+
+Driving Scenarios: 
+
+LS3_start_rev.trc: 				Cold start, revving in standstill
+throttle_steering_clutch_shifting.trc: 		Ignition on, pressing the throttle, clutch and shifting. No start.
+throttle_steering_clutch_shiftingv2.trc: 	Ignition on, pressing the throttle, clutch and shifting. No start.
+try_start.trc: 					Trying to start, but does not crank due to bad battery.
